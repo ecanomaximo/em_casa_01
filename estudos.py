@@ -11,6 +11,6 @@ idade = 19
 altura = 1,20
 peso = 59
 
-tumulo_02 = (nome, idade, altura, peso)]
+tumulo_02 = (nome, idade, altura, peso)
 print (tumulo_02)
 
